@@ -1,4 +1,4 @@
-# Docker image to create Amazon Lambda packages
+# Docker image to create Amazon Lambda packages with git
 
 ## Why?
 
